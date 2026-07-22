@@ -1,6 +1,3 @@
-# Add_motion_blur_based_on_camera_and_object_parameters
-Add motion blur on your image or object, based on camera parameters such as: Focal length; Pixel density; resolution; FPS; sensor size. And Object parametrs, such as: object Speed. 
-
 # Add_motion_blur_Interactive_Segmentation
 Add motion blur to objects based on physical camera parameters (Focal length, resolution, FPS, sensor size) and object speed, using an interactive UI for object segmentation.
 
